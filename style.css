@@ -67,7 +67,7 @@ body {
 
 .btn {
   display: inline-block;
-  background-color: var(--color-primary);
+  background-color: #efb599;
   font-size: 1.6rem;
   font-family: inherit;
   font-weight: 500;
@@ -79,7 +79,7 @@ body {
 }
 
 .btn:hover {
-  background-color: var(--color-primary-darker);
+  background-color: #fc8f58;
 }
 
 .btn--text {
@@ -298,20 +298,20 @@ h4 {
 }
 
 .operations__tab--1 {
-  background-color: var(--color-secondary);
+  background-color: #ea9ceb;
 }
 
 .operations__tab--1:hover {
-  background-color: var(--color-secondary-darker);
+  background-color: #e657e9;
 }
 
 .operations__tab--3 {
-  background-color: var(--color-tertiary);
+  background-color: #9cdfeb;
   margin: 0;
 }
 
 .operations__tab--3:hover {
-  background-color: var(--color-tertiary-darker);
+  background-color: #48cae0;
 }
 
 .operations__tab--active {
@@ -358,13 +358,13 @@ h4 {
 }
 
 .operations__icon--1 {
-  background-color: var(--color-secondary-opacity);
+  background-color:#f9c5fa;
 }
 .operations__icon--2 {
-  background-color: var(--color-primary-opacity);
+  background-color: #fde0d1;
 }
 .operations__icon--3 {
-  background-color: var(--color-tertiary-opacity);
+  background-color: #cbf4fc;
 }
 .operations__icon--1 svg {
   fill: var(--color-secondary-darker);
